@@ -1,16 +1,29 @@
-## Hi there 👋
+### ¡Hola! Soy Elena 👋
 
-<!--
-**elenasaez25/elenasaez25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de 2.º curso de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+📍 Sevilla, España
 
-Here are some ideas to get you started:
+Actualmente formándome en desarrollo de software con Java, SQL y modelado UML, con experiencia práctica en desarrollo y optimización web durante mis prácticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🛠️ Con lo que trabajo**
+
+- **Lenguajes:** Java, SQL
+- **Bases de datos:** SQL, Oracle
+- **Desarrollo web:** HTML5, CSS
+- **Modelado:** UML, XML/XSD
+- **Herramientas:** NetBeans, Git, Linux, Odoo
+
+---
+
+**📌 Algunos de mis proyectos**
+
+- 🧾 Customización de informe de factura en **Odoo** (XML) + manual de explotación — *Lenguaje de Marcas y Sistemas de Gestión de Información*
+- 🌱 Análisis de materialidad ASG en XML/XSD para el sector web — *Sostenibilidad Aplicada al Sistema Productivo*
+- 🏃 Sistema de gestión de competiciones de atletismo — Java (POO, validación de entradas)
+- 📚 Consultas SQL para sistema de biblioteca — compatibilidad Oracle 8i
+
+---
+
+💼 Abierta a oportunidades de prácticas o empleo junior en desarrollo de software — si tienes una vacante que encaje, ¡contáctame por [LinkedIn](https://www.linkedin.com/in/elenasaelas/?isSelfProfile=true)!
