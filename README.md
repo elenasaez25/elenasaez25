@@ -1,7 +1,7 @@
 ### ¡Hola! Soy Elena 👋
 
-🎓 Desarrolladora de Apliaciones Multiplataforma, formada en Campus Cámara, Sevilla (2025-2027)
-📍 Sevilla, España
+🎓 Desarrolladora de Apliaciones Multiplataforma, formada en Campus Cámara, Sevilla (2025-2027)  
+📍 Sevilla, España  
 ✅ Certificado C1 de inglés (Cambridge)
 
 Con experiencia práctica en desarrollo y optimización web, SEO y creación de contenidos digitales durante mis prácticas en la Academia Internacional Ciencias Criminalísticas. Busco seguir desarrollándome profesionalmente en proyectos de software y aplicaciones multiplataforma.  
