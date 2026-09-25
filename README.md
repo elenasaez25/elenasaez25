@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Elena 👋
 
-🎓 Estudiante de 2.º curso de **FP Dual Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — Campus Cámara, Sevilla (2025-2027)
+🎓 Desarrolladora de Apliaciones Multiplataforma, formada en Campus Cámara, Sevilla (2025-2027)
 📍 Sevilla, España
 ✅ Certificado C1 de inglés (Cambridge)
 
